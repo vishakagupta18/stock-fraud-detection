@@ -3,7 +3,7 @@
 ### Table of Contents ###
 - [Project Overview](#project-overview)
 - [Scenario](#scenario)
-- [Data & Tools](#data--tools)
+- [Tools & Methodology](#data--methodology)
 - [Data Visualisation](#data-visualisation)
 - [Achievements & Impact](#achievements--impact)
 - [Key Achievements](#key-achievements)
@@ -19,7 +19,7 @@ The project aims to identify financial irregularities and predict fraudulent act
 - Analysis Techniques: Used descriptive statistics, regression analysis, and logistic regression for predictive analytics.
 - Visualization: Created dashboards using Tableau to visualize financial performance and fraud detection insights.
 
-### Data & Tools
+### Tools & Methodology
 In this financial analysis for stock fraud detection, several tools and techniques are used to ensure data accuracy, extraction, and predictive modeling:
 
 1. **Power Query**: Power Query is used for data cleaning and formatting. It helps in identifying and removing inconsistencies, duplicates, and errors in the dataset. By automating data preparation tasks, Power Query ensures the data is clean and ready for analysis.
@@ -35,10 +35,10 @@ These tools collectively enhance the financial analysis process by ensuring data
 ### Data Visualisation
 Visualized data to highlight companies’ financial health, profitability, and risk levels. Identified high-risk companies and those with significant debt growth.
 
-- Pivot Table
+-- Pivot Table
 ![Financial Dashboard Analysis](./stock-fraud-images/Pivot-Table.png)
 
-- Tableau Dashboard
+-- Tableau Dashboard
 ![Financial Dashboard](./stock-fraud-images/Tableau-dashboard.png)
 
 ### Impact
