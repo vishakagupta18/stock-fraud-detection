@@ -34,7 +34,10 @@ In this financial analysis for stock fraud detection, several tools and techniqu
 
    ![Fraud or NonFraud Plot](./stock-fraud-images/Fraud-NonFraud-Plot.png)
 
+   Confusion Matrix
 
+   ![Confusion Matrix](./stock-fraud-images/confusion-matrix.png)
+   
 These tools collectively enhance the financial analysis process by ensuring data integrity, extracting valuable insights, and applying machine learning for fraud detection.
 
 ### Data Visualisation
