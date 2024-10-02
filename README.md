@@ -30,7 +30,7 @@ In this financial analysis for stock fraud detection, several tools and techniqu
 
 4. **Python for Machine Learning**: Python is employed to build predictive models using machine learning techniques. After the data is cleaned and formatted, Python libraries such as scikit-learn are used to train models that detect patterns and predict potential stock fraud. This combination of structured data analysis and advanced predictive modeling leads to high accuracy in identifying fraudulent activities.
 
-      [Fraud Detection Python Code Link](./FinancialAnalysis-StockFraudPrediction.ipynb)
+      [Stock Fraud Detection - Python Code Link](./FinancialAnalysis-StockFraudPrediction.ipynb)
 
       **Fraud or Non-Fraud Plot**
    
