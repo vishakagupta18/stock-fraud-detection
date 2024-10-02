@@ -36,16 +36,17 @@ These tools collectively enhance the financial analysis process by ensuring data
 Visualized data to highlight companies’ financial health, profitability, and risk levels. Identified high-risk companies and those with significant debt growth.
 
  - Pivot Table
+   
 ![Financial Dashboard Analysis](./stock-fraud-images/Pivot-Table.png)
 
  - Tableau Dashboard
+   
 ![Financial Dashboard](./stock-fraud-images/Tableau-dashboard.png)
 
 ### Impact
 Provided a robust tool for stakeholders to make informed decisions regarding investments and risk management
 
-
 ### Key Achievements
-Key Achievements: Developed a logistic regression model with 93.67% accuracy for fraud detection. Identified significant financial metrics impacting company performance.
+Key Achievements: Developed a logistic regression model with 92.40% accuracy for fraud detection. Identified significant financial metrics impacting company performance.
 
 
