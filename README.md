@@ -5,7 +5,7 @@
 - [Scenario](#scenario)
 - [Data & Tools](#data-&-tools)
 - [SQL Queries & Analysis](#sql-queries-&-analysis)
-- [Tableau Dashboard](#power-bi-dashboard)
+- [Tableau Dashboard](#tableau-dashboard)
 - [Achievements & Impact](#achievements-&-impact)
 - [Key Achievements](#key-achievements)
 
