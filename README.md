@@ -35,10 +35,10 @@ These tools collectively enhance the financial analysis process by ensuring data
 ### Data Visualisation
 Visualized data to highlight companies’ financial health, profitability, and risk levels. Identified high-risk companies and those with significant debt growth.
 
--- Pivot Table
+ - Pivot Table
 ![Financial Dashboard Analysis](./stock-fraud-images/Pivot-Table.png)
 
--- Tableau Dashboard
+ - Tableau Dashboard
 ![Financial Dashboard](./stock-fraud-images/Tableau-dashboard.png)
 
 ### Impact
