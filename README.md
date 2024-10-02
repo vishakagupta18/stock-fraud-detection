@@ -3,7 +3,7 @@
 ### Table of Contents ###
 - [Project Overview](#project-overview)
 - [Scenario](#scenario)
-- [Tools & Methodology](#data--methodology)
+- [Tools & Methodology](#tools--methodology)
 - [Data Visualisation](#data-visualisation)
 - [Achievements & Impact](#achievements--impact)
 - [Key Achievements](#key-achievements)
